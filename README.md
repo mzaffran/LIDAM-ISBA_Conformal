@@ -1,0 +1,2 @@
+- Notebook on colab, with holes to fill: https://colab.research.google.com/drive/19Z49cja_0g8p0nf3XT82M9nqUrL0hoQ7?usp=sharing
+- Notebook on colab, with all the code: https://colab.research.google.com/drive/1RCrsB5WF22gXgIrQHFJai1_rMUlZVVTn?usp=sharing
